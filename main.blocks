@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="k0Ej7po:1dr|-J3efA1o">kompas</variable></variables><block type="device_forever" id=")?{XR7;oL*JzvI}=*ooM" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="@gfsWwQ8s!L8)wirATp+"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="fx^w(t[4|!.hI[,yE};W"><field name="OP">LT</field><value name="A"><shadow type="math_number" id="t*ns8|Y$u0U,1Djtq-PV"><field name="NUM">225</field></shadow></value><value name="B"><shadow type="math_number" id=",mI;r.6qBD3b))|.l6w`"><field name="NUM">135</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="IH2Mn}YUk^ERFT?1`lRc"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></statement></block><block type="device_forever" id="|Zp+m2NrR)Rox`|aTM/X" x="615" y="20"><statement name="HANDLER"><block type="controls_if" id="H@D413ie?/(X/Zy|w/ef"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="+)!BW|,QdM%_jodbWPC^"><field name="OP">LT</field><value name="A"><shadow type="math_number" id="Od2.e~~2CNEE)Y:k0`pl"><field name="NUM">135</field></shadow></value><value name="B"><shadow type="math_number" id="Xb`OVK|~|G=+c99*:S!L"><field name="NUM">45</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="!`aUUQrc$2Lv$UM6cvUz"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></statement></block><block type="device_forever" id="AP;Y:n6c^9;:~KR9}Sq2" x="327" y="366"><statement name="HANDLER"><block type="controls_if" id="50wkJhUsn:{CMHv+(P;h"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="tLt-D)fvzbbq_}UKYp6C"><field name="OP">LT</field><value name="A"><shadow type="math_number" id=")N|30xr?/vy;7__}K^IO"><field name="NUM">315</field></shadow></value><value name="B"><shadow type="math_number" id="2?H6j`!8.^dE+6I}}idR"><field name="NUM">225</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="%YHTHWzhV4~*aRvpZ|*n"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></statement></block></xml>
